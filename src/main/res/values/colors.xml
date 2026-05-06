@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue_light">#0077b6</color>
+    <color name="blue_dark">#03045e</color>
+    <color name="blue_chip_selected">#03045b</color>
+
+    <color name="priority_high">#F44336</color>
+    <color name="priority_medium">#FFEB3B</color>
+    <color name="priority_low">#4CAF50</color>
+    <color name="text_hint">#808080</color>
+
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#CCCCCC</color>
+    <color name="gray_500">#9E9E9E</color>
+
+    <color name="note_background">#FFFDE7</color>
+    <color name="progress_default">#03A9F4</color>
+
+    <color name="progress_upcoming">#4CAF50</color>
+    <color name="progress_progressing">#FFC107</color>
+    <color name="progress_overdue">#F44336</color>
+
+    <color name="material_dynamic_neutral_variant40">#FF888888</color>
+    <color name="transparent">#FFFFFF</color>
+</resources>

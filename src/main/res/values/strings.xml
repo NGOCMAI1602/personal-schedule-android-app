@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+
+    <string-array name="task_categories">
+        <item>Tất cả</item>
+        <item>Cá nhân</item>
+        <item>Học tập</item>
+        <item>Công việc</item>
+        <item>Nghỉ ngơi</item>
+        <item>Thể thao</item>
+    </string-array>
+
+    <string-array name="task_repeat">
+        <item>Không lặp</item>
+        <item>Hàng ngày</item>
+        <item>Hàng tuần</item>
+        <item>Hàng tháng</item>
+    </string-array>
+</resources>
